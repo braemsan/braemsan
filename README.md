@@ -1,4 +1,4 @@
-- 👋 Hi, I’m new here
+- 👋 Hi, I’m Ibrahim
 - 👀 I’m interested in Cloud Support & DevOps
 - 🌱 I'm here to explore the hang out space for tech enthusiasts
 
